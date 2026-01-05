@@ -2,3 +2,5 @@ streamlit
 yfinance 
 pandas 
 langchain-ollama
+arize-phoenix 
+openinference-instrumentation-langchain
